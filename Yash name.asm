@@ -1,7 +1,7 @@
 section .data
-    first db "Aditya", 0Ah
+    first db "Yash", 0Ah
     len1 equ $ - first
-    last db "Narke", 0Ah
+    last db "kulkarni", 0Ah
     len2 equ $ - last
 
 section .text
